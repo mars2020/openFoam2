@@ -1,0 +1,23 @@
+
+
+
+  The University of Texas at Austin
+  ASE 347 / Spring 2017
+  Instructor: F. Bisetti (fbisetti@utexas.edu)
+
+
+  -- OpenFOAM files for the flow around a circular cylinder --
+
+  0/: Folder with initial conditions and boundary conditions,
+      U free stream is 1 m/s
+
+  system/: Folder with system files, including decomposeParDict
+           probes and singleGraph
+
+  constant/transportProperties.template:  transport properties file
+  system/blockMeshDict.template: blockMeshDict template file
+
+  openfoam.serial.slurm   : serial batch job submission script (SLURM)
+  openfoam.parallel.slurm : parallel batch job submission script (SLURM)
+
+
