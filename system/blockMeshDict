@@ -8,7 +8,7 @@ FoamFile
 
 //Lf = 2	Lw = 10	H = 5	R = 1
 
-//cells (20 20 1)
+//cells (10 10 1)
 
 //grading (1 1 1)
 
@@ -84,26 +84,26 @@ vertices
 
 blocks
 (
-	hex (0 8 9 1 32 40 41 33)	(20 20 1)	simpleGrading (1 1 1)	//block 0
-	hex (1 9 10 2 33 41 42 34)	(20 20 1)	simpleGrading (1 1 1)	//block 1
-	hex (2 10 11 3 34 42 43 35)	(20 20 1)	simpleGrading (1 1 1)	//block 2
-	hex (3 11 12 4 35 43 44 36)	(20 20 1)	simpleGrading (1 1 1)	//block 3
-	hex (4 12 13 5 36 44 45 37)	(20 20 1)	simpleGrading (1 1 1)	//block 4
-	hex (5 13 14 6 37 45 46 38)	(20 20 1)	simpleGrading (1 1 1)	//block 5
-	hex (6 14 15 7 38 46 47 39)	(20 20 1)	simpleGrading (1 1 1)	//block 6
-	hex (7 15 8 0 39 47 40 32)	(20 20 1)	simpleGrading (1 1 1)	//block 7
-	hex (8 16 17 9 40 48 49 41)	(20 20 1)	simpleGrading (1 1 1)	//block 8
-	hex (9 17 18 19 41 49 50 51)	(20 20 1)	simpleGrading (1 1 1)	//block 9
-	hex (10 9 19 20 42 41 51 52)	(20 20 1)	simpleGrading (1 1 1)	//block 10
-	hex (11 10 20 21 43 42 52 53)	(20 20 1)	simpleGrading (1 1 1)	//block 11
-	hex (23 11 21 22 55 43 53 54)	(20 20 1)	simpleGrading (1 1 1)	//block 12
-	hex (24 12 11 23 56 44 43 55)	(20 20 1)	simpleGrading (1 1 1)	//block 13
-	hex (25 13 12 24 57 45 44 56)	(20 20 1)	simpleGrading (1 1 1)	//block 14
-	hex (26 27 13 25 58 59 45 57)	(20 20 1)	simpleGrading (1 1 1)	//block 15
-	hex (27 28 14 13 59 60 46 45)	(20 20 1)	simpleGrading (1 1 1)	//block 16
-	hex (28 29 15 14 60 61 47 46)	(20 20 1)	simpleGrading (1 1 1)	//block 17
-	hex (29 30 31 15 61 62 63 47)	(20 20 1)	simpleGrading (1 1 1)	//block 18
-	hex (15 31 16 8 47 63 48 40)	(20 20 1)	simpleGrading (1 1 1)	//block 19
+	hex (0 8 9 1 32 40 41 33)	(10 10 1)	simpleGrading (1 1 1)	//block 0
+	hex (1 9 10 2 33 41 42 34)	(10 10 1)	simpleGrading (1 1 1)	//block 1
+	hex (2 10 11 3 34 42 43 35)	(10 10 1)	simpleGrading (1 1 1)	//block 2
+	hex (3 11 12 4 35 43 44 36)	(10 10 1)	simpleGrading (1 1 1)	//block 3
+	hex (4 12 13 5 36 44 45 37)	(10 10 1)	simpleGrading (1 1 1)	//block 4
+	hex (5 13 14 6 37 45 46 38)	(10 10 1)	simpleGrading (1 1 1)	//block 5
+	hex (6 14 15 7 38 46 47 39)	(10 10 1)	simpleGrading (1 1 1)	//block 6
+	hex (7 15 8 0 39 47 40 32)	(10 10 1)	simpleGrading (1 1 1)	//block 7
+	hex (8 16 17 9 40 48 49 41)	(10 10 1)	simpleGrading (1 1 1)	//block 8
+	hex (9 17 18 19 41 49 50 51)	(10 10 1)	simpleGrading (1 1 1)	//block 9
+	hex (10 9 19 20 42 41 51 52)	(10 10 1)	simpleGrading (1 1 1)	//block 10
+	hex (11 10 20 21 43 42 52 53)	(10 10 1)	simpleGrading (1 1 1)	//block 11
+	hex (23 11 21 22 55 43 53 54)	(10 10 1)	simpleGrading (1 1 1)	//block 12
+	hex (24 12 11 23 56 44 43 55)	(10 10 1)	simpleGrading (1 1 1)	//block 13
+	hex (25 13 12 24 57 45 44 56)	(10 10 1)	simpleGrading (1 1 1)	//block 14
+	hex (26 27 13 25 58 59 45 57)	(10 10 1)	simpleGrading (1 1 1)	//block 15
+	hex (27 28 14 13 59 60 46 45)	(10 10 1)	simpleGrading (1 1 1)	//block 16
+	hex (28 29 15 14 60 61 47 46)	(10 10 1)	simpleGrading (1 1 1)	//block 17
+	hex (29 30 31 15 61 62 63 47)	(10 10 1)	simpleGrading (1 1 1)	//block 18
+	hex (15 31 16 8 47 63 48 40)	(10 10 1)	simpleGrading (1 1 1)	//block 19
 );
 
 edges
