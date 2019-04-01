@@ -28,8 +28,8 @@ sets
     {
         type    lineCell;
         axis    xyz;
-        start   (x1 y1 z1);
-        end     (x2 y2 z2);
+        start   (-1 0 .05);
+        end     (3 0 .05);
     }
 );
 
