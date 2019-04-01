@@ -92,7 +92,7 @@ blocks
 	hex (11 10 20 21 43 42 52 53)	(20 20 20)	simpleGrading (1 1 1)	//block 11
 	hex (23 11 21 22 55 43 53 54)	(20 20 20)	simpleGrading (1 1 1)	//block 12
 	hex (24 12 11 23 56 44 43 55)	(20 20 20)	simpleGrading (1 1 1)	//block 13
-	hex (25 13 12 24 57 45 44 58)	(20 20 20)	simpleGrading (1 1 1)	//block 14
+	hex (25 13 12 24 57 45 44 56)	(20 20 20)	simpleGrading (1 1 1)	//block 14
 	hex (26 27 13 25 58 59 45 57)	(20 20 20)	simpleGrading (1 1 1)	//block 15
 	hex (27 28 14 13 59 60 46 45)	(20 20 20)	simpleGrading (1 1 1)	//block 16
 	hex (28 29 15 14 60 61 47 46)	(20 20 20)	simpleGrading (1 1 1)	//block 17
