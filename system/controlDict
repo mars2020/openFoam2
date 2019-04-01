@@ -27,7 +27,7 @@ endTime         25.0;
 
 deltaT          0.01;
 
-writeControl    timeStep; 
+writeControl    runTime; 
 
 writeInterval   10.0;
 
